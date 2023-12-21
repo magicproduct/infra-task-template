@@ -22,5 +22,5 @@ A `verification.json` is uploaded too, this file contains validation info about 
 
 # Goal
 
-The application should run in the GKE cluster without errors, all files should be scrubbed and uploaded to the GCS
+The application should run in the non-autopilot GKE cluster without errors, all files should be scrubbed and uploaded to the GCS
 bucket.
